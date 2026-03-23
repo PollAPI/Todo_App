@@ -1,7 +1,7 @@
 # Table of Contents
-1. [App Overview](#App Overview)
-2. [CSS Implementation[(#CSS Implementation)
-3. [Developed On](#Developed On)
+1. [App Overview](#app overview)
+2. [CSS Implementation] (#css implementation)
+3. [Developed On](#developed on)
 
 # App Overview
 My practice with learning django and the various things I make with it  
